@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
