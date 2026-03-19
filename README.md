@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0174-dungeon-game) |
 | [0217-contains-duplicate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
+| [0174-dungeon-game](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0174-dungeon-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
