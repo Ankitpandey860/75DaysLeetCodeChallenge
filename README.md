@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0174-dungeon-game) |
 | [0647-palindromic-substrings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
