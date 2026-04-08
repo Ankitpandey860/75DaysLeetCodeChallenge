@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3873-maximum-points-activated-with-one-addition) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
