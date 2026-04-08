@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
+## Enumeration
+|  |
+| ------- |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 <!---LeetCode Topics End-->
