@@ -50,6 +50,46 @@ public:
         }
         return dp[s1][s2][len]=false;
     }
+    bool tab(string str1, string str2, int n){
+
+    vector<vector<vector<int>>> dp(
+        n,
+        vector<vector<int>>(n, vector<int>(n+1, false))
+    );
+
+    // base case
+    for(int i=0;i<n;i++)
+        for(int j=0;j<n;j++)
+            dp[i][j][1] = (str1[i] == str2[j]);
+
+    // length from 2 to n
+    for(int len = 2; len <= n; len++){
+
+        for(int s1 = 0; s1 + len <= n; s1++){
+
+            for(int s2 = 0; s2 + len <= n; s2++){
+
+                for(int k = 1; k < len; k++){
+
+                    bool noSwap =
+                        dp[s1][s2][k] &&
+                        dp[s1+k][s2+k][len-k];
+
+                    bool swap =
+                        dp[s1][s2+len-k][k] &&
+                        dp[s1+k][s2][len-k];
+
+                    if(noSwap || swap){
+                        dp[s1][s2][len] = true;
+                        break;
+                    }
+                }
+            }
+        }
+    }
+
+    return dp[0][0][n];
+}
     bool isScramble(string s1, string s2) {
         int n = s1.length();
         int m = s2.length();
@@ -64,6 +104,7 @@ public:
         
         vector<vector<vector<int>>> dp(n, vector<vector<int>>(n, vector<int>(n + 1, -1)));
         //return solve(0, n - 1, 0, m - 1, s1, s2,dp);
-        return solve(0,0,n,s1,s2,dp);
+        //return solve(0,0,n,s1,s2,dp);
+        return tab(s1,s2,n);
     }
 };
