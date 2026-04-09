@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 ## Enumeration
 |  |
