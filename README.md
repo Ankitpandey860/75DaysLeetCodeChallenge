@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3873-maximum-points-activated-with-one-addition) |
+| [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [2484-count-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2484-count-palindromic-subsequences) |
+| [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
 ## Prefix Sum
 |  |
 | ------- |
