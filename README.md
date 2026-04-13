@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3889-mirror-frequency-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 ## Two Pointers
 |  |
 | ------- |
