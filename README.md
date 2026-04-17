@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [2484-count-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2484-count-palindromic-subsequences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3889-mirror-frequency-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3889-mirror-frequency-distance) |
 ## Dynamic Programming
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3862-find-the-smallest-balanced-index) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Tree
 |  |
 | ------- |
