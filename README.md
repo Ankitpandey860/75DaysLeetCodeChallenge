@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [2484-count-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2484-count-palindromic-subsequences) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3889-mirror-frequency-distance) |
 ## Dynamic Programming
 |  |
