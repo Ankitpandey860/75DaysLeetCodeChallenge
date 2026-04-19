@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0135-candy](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Recursion
 |  |
