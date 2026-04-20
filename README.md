@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0233-number-of-digit-one) |
 | [0647-palindromic-substrings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0233-number-of-digit-one) |
 ## Enumeration
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0233-number-of-digit-one) |
 | [0887-super-egg-drop](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 ## Binary Search
 |  |
