@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Tree
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0233-number-of-digit-one) |
 | [0887-super-egg-drop](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3858-minimum-bitwise-or-from-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
+## Number Theory
+|  |
+| ------- |
+| [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 <!---LeetCode Topics End-->
