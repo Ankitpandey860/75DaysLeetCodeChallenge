@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
+| [1603-design-parking-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
 | [2390-removing-stars-from-a-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
+| [1603-design-parking-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3889-mirror-frequency-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3889-mirror-frequency-distance) |
 ## Sliding Window
