@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0233-number-of-digit-one) |
+| [0338-counting-bits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Combinatorics
 |  |
