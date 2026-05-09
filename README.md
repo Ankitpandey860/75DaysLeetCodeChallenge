@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
