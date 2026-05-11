@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
 | [1603-design-parking-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
+| [0043-multiply-strings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0097-interleaving-string) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
