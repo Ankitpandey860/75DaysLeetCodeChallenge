@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0233-number-of-digit-one) |
+| [0263-ugly-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0263-ugly-number) |
 | [0887-super-egg-drop](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
