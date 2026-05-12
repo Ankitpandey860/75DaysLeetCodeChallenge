@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
 | [0741-cherry-pickup](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0741-cherry-pickup) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3862-find-the-smallest-balanced-index) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Two Pointers
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0413-arithmetic-slices) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3859-count-subarrays-with-k-distinct-integers) |
