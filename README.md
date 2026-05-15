@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1191-k-concatenation-maximum-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3840-house-robber-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3840-house-robber-v) |
 | [3842-toggle-light-bulbs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3842-toggle-light-bulbs) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
@@ -350,4 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
+## Queue
+|  |
+| ------- |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
