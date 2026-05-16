@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0946-validate-stack-sequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1191-k-concatenation-maximum-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1664-ways-to-make-a-fair-array) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3862-find-the-smallest-balanced-index) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0887-super-egg-drop](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Counting
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0413-arithmetic-slices) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3859-count-subarrays-with-k-distinct-integers) |
