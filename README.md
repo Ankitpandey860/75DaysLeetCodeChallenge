@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
