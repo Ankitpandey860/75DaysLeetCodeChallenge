@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2390-removing-stars-from-a-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2484-count-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2484-count-palindromic-subsequences) |
 | [3844-longest-almost-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3844-longest-almost-palindromic-substring) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1012-numbers-with-repeated-digits) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1191-k-concatenation-maximum-sum) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2484-count-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2484-count-palindromic-subsequences) |
 | [3840-house-robber-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3840-house-robber-v) |
