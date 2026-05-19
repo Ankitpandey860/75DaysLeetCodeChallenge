@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1191-k-concatenation-maximum-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1664-ways-to-make-a-fair-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3815-design-auction-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3829-design-ride-sharing-system) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1664-ways-to-make-a-fair-array) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3862-find-the-smallest-balanced-index) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1012-numbers-with-repeated-digits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1012-numbers-with-repeated-digits) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Binary Search
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Depth-First Search
