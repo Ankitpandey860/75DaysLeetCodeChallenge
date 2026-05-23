@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1664-ways-to-make-a-fair-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
