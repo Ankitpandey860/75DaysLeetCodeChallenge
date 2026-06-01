@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0174-dungeon-game) |
