@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0174-dungeon-game) |
