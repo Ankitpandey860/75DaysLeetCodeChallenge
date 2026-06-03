@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
