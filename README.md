@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0741-cherry-pickup) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0313-super-ugly-number) |
 | [0887-super-egg-drop](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1012-numbers-with-repeated-digits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1012-numbers-with-repeated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1603-design-parking-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3859-count-subarrays-with-k-distinct-integers) |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Breadth-First Search
 |  |
