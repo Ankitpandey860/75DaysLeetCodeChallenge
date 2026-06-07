@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1603-design-parking-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
