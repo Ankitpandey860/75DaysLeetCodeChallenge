@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0887-super-egg-drop](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
