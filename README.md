@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1664-ways-to-make-a-fair-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3815-design-auction-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3829-design-ride-sharing-system) |
 | [3842-toggle-light-bulbs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3842-toggle-light-bulbs) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1012-numbers-with-repeated-digits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1012-numbers-with-repeated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Binary Search
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Breadth-First Search
 |  |
