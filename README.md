@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1664-ways-to-make-a-fair-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
 | [1034-coloring-a-border](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1034-coloring-a-border) |
 | [1162-as-far-from-land-as-possible](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1162-as-far-from-land-as-possible) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Monotonic Stack
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Counting
 |  |
