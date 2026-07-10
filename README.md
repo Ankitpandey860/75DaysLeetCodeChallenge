@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
