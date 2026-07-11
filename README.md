@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
 | [0413-arithmetic-slices](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0509-fibonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0233-number-of-digit-one) |
+| [0509-fibonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
 | [0477-total-hamming-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
+| [0509-fibonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0887-super-egg-drop](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -619,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1125-smallest-sufficient-team](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1125-smallest-sufficient-team) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
