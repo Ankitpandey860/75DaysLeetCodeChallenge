@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
