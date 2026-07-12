@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
 | [0993-cousins-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 | [1034-coloring-a-border](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1034-coloring-a-border) |
+| [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Bit Manipulation
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
+| [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
 ## Topological Sort
 |  |
 | ------- |
@@ -633,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
