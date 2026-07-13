@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0576-out-of-boundary-paths) |
+| [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
 | [0647-palindromic-substrings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
+| [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
 ## Math
 |  |
 | ------- |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0477-total-hamming-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
+| [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
 | [1125-smallest-sufficient-team](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1125-smallest-sufficient-team) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
@@ -635,11 +639,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
 | [1125-smallest-sufficient-team](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1125-smallest-sufficient-team) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
 | [1137-n-th-tribonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 ## Biconnected Component
 |  |
