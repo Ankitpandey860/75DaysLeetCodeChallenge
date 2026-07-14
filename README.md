@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
 | [0946-validate-stack-sequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0815-bus-routes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [1034-coloring-a-border](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1034-coloring-a-border) |
 | [1162-as-far-from-land-as-possible](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1162-as-far-from-land-as-possible) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Backtracking
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [0993-cousins-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 | [1034-coloring-a-border](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1034-coloring-a-border) |
 | [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
@@ -542,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0815-bus-routes) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [0993-cousins-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 | [1034-coloring-a-border](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1034-coloring-a-border) |
 | [1162-as-far-from-land-as-possible](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1162-as-far-from-land-as-possible) |
