@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0764-largest-plus-sign](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0764-largest-plus-sign) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0813-largest-sum-of-averages](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0815-bus-routes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0764-largest-plus-sign) |
 | [0790-domino-and-tromino-tiling](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0799-champagne-tower) |
+| [0813-largest-sum-of-averages](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0813-largest-sum-of-averages) |
 | [0887-super-egg-drop](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0813-largest-sum-of-averages](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0813-largest-sum-of-averages) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
