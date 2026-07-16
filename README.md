@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0764-largest-plus-sign) |
 | [0790-domino-and-tromino-tiling](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0799-champagne-tower) |
+| [0808-soup-servings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
 | [0813-largest-sum-of-averages](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0813-largest-sum-of-averages) |
 | [0887-super-egg-drop](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
 | [0477-total-hamming-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0808-soup-servings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
 | [0887-super-egg-drop](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -697,4 +699,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0332-reconstruct-itinerary) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0808-soup-servings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
 <!---LeetCode Topics End-->
