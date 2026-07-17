@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0313-super-ugly-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0313-super-ugly-number) |
 | [0332-reconstruct-itinerary](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0332-reconstruct-itinerary) |
+| [0393-utf-8-validation](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0413-arithmetic-slices](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [0393-utf-8-validation](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0477-total-hamming-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
 | [1125-smallest-sufficient-team](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1125-smallest-sufficient-team) |
