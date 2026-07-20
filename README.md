@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
 | [3975-filter-occupied-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3975-filter-occupied-intervals) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Hash Table
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3840-house-robber-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3840-house-robber-v) |
 | [3844-longest-almost-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3844-longest-almost-palindromic-substring) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [3815-design-auction-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3815-design-auction-system) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Quickselect
 |  |
 | ------- |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Topological Sort
 |  |
 | ------- |
@@ -734,4 +738,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
+## Shortest Path
+|  |
+| ------- |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 <!---LeetCode Topics End-->
