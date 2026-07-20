@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0741-cherry-pickup) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0815-bus-routes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0815-bus-routes) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0332-reconstruct-itinerary) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [3842-toggle-light-bulbs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3842-toggle-light-bulbs) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
 | [0856-score-of-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
@@ -580,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0815-bus-routes) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
