@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
+| [0684-redundant-connection](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0332-reconstruct-itinerary) |
+| [0684-redundant-connection](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0684-redundant-connection) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
 | [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
