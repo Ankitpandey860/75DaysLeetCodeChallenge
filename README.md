@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [0993-cousins-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0815-bus-routes) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [0993-cousins-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
@@ -712,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0332-reconstruct-itinerary) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
 | [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
