@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1034-coloring-a-border](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1034-coloring-a-border) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1125-smallest-sufficient-team](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1125-smallest-sufficient-team) |
 | [1162-as-far-from-land-as-possible](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1162-as-far-from-land-as-possible) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1048-longest-string-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1207-unique-number-of-occurrences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [3842-toggle-light-bulbs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3842-toggle-light-bulbs) |
 | [3975-filter-occupied-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3975-filter-occupied-intervals) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1012-numbers-with-repeated-digits) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1125-smallest-sufficient-team](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1125-smallest-sufficient-team) |
 | [1137-n-th-tribonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1162-as-far-from-land-as-possible) |
@@ -338,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
+| [1048-longest-string-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [3844-longest-almost-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3844-longest-almost-palindromic-substring) |
 ## Matrix
 |  |
