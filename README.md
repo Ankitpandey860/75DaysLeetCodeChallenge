@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3975-filter-occupied-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3975-filter-occupied-intervals) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Hash Table
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3889-mirror-frequency-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3889-mirror-frequency-distance) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1664-ways-to-make-a-fair-array) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3862-find-the-smallest-balanced-index) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3859-count-subarrays-with-k-distinct-integers) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Depth-First Search
 |  |
 | ------- |
