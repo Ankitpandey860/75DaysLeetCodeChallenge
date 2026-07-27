@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1034-coloring-a-border](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1034-coloring-a-border) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0990-satisfiability-of-equality-equations) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0684-redundant-connection) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0990-satisfiability-of-equality-equations) |
 | [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
