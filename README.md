@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1664-ways-to-make-a-fair-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [3842-toggle-light-bulbs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3842-toggle-light-bulbs) |
 | [3975-filter-occupied-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3975-filter-occupied-intervals) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2484-count-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2484-count-palindromic-subsequences) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3840-house-robber-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3840-house-robber-v) |
