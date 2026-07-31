@@ -12,7 +12,8 @@ public:
         }
         // step bus
         using p=tuple<int,int>;
-        priority_queue<p,vector<p>,greater<p>>pq;
+        //queue<p,vector<p>,greater<p>>pq;
+        queue<p>pq;
         vector<int>vis(n,false);
         for(auto it:btr[source]){
             vis[it]=true;
@@ -21,7 +22,7 @@ public:
             }
         }
         while(!pq.empty()){
-            auto [step,bus]=pq.top();
+            auto [step,bus]=pq.front();
             pq.pop();
             if(bus==target) return step;
             for(auto rots:btr[bus]){
