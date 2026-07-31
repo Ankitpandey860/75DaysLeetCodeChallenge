@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0813-largest-sum-of-averages](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0815-bus-routes) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0879-profitable-schemes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0879-profitable-schemes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0931-minimum-falling-path-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0959-regions-cut-by-slashes) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1125-smallest-sufficient-team](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1125-smallest-sufficient-team) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1310-xor-queries-of-a-subarray) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0815-bus-routes) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
