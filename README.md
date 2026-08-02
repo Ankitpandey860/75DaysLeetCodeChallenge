@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
