@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0332-reconstruct-itinerary) |
 | [0368-largest-divisible-subset](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0393-utf-8-validation](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
+| [0403-frog-jump](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0474-ones-and-zeroes) |
