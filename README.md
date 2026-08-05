@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1514-path-with-maximum-probability](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1575-count-all-possible-routes) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+| [1514-path-with-maximum-probability](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1514-path-with-maximum-probability) |
 | [3815-design-auction-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3815-design-auction-system) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0990-satisfiability-of-equality-equations) |
 | [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1514-path-with-maximum-probability](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1514-path-with-maximum-probability) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -837,6 +840,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1514-path-with-maximum-probability](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1514-path-with-maximum-probability) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
