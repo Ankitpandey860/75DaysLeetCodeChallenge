@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1223-dice-roll-simulation](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1223-dice-roll-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1162-as-far-from-land-as-possible) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1191-k-concatenation-maximum-sum) |
+| [1223-dice-roll-simulation](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1223-dice-roll-simulation) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
