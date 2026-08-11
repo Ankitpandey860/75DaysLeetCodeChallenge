@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
@@ -894,4 +896,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
