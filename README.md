@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
+| [0546-remove-boxes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0518-coin-change-ii) |
+| [0546-remove-boxes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0576-out-of-boundary-paths) |
 | [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0546-remove-boxes) |
 | [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
 | [0773-sliding-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 | [1137-n-th-tribonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
