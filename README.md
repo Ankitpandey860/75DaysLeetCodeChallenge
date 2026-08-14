@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1310-xor-queries-of-a-subarray) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1531-string-compression-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1531-string-compression-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1563-stone-game-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -908,15 +911,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 ## Algorithm X
 |  |
 | ------- |
