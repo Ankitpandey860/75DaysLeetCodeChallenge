@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1531-string-compression-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1531-string-compression-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -912,20 +914,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0052-n-queens-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
