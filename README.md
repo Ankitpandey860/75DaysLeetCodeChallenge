@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1664-ways-to-make-a-fair-array) |
 | [1686-stone-game-vi](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1690-stone-game-vii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1575-count-all-possible-routes) |
+| [1690-stone-game-vii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1690-stone-game-vii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2484-count-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2484-count-palindromic-subsequences) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1690-stone-game-vii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1690-stone-game-vii) |
 ## Game Theory
 |  |
 | ------- |
@@ -936,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1690-stone-game-vii) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -943,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1690-stone-game-vii) |
 ## Algorithm X
 |  |
 | ------- |
