@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1310-xor-queries-of-a-subarray) |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
 | [1406-stone-game-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3858-minimum-bitwise-or-from-grid) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -879,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0638-shopping-offers) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1125-smallest-sufficient-team](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1125-smallest-sufficient-team) |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
 ## Memoization
 |  |
 | ------- |
@@ -973,4 +978,44 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+## Maximum Flow
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
+## Maximum Matching
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
+## Bipartite Graph
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
+## Edmonds–Karp Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
+## MPM Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
+## Push-Relabel Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
+## Minimum Cut
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
+## Flow Network
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
+## Dinic's Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
 <!---LeetCode Topics End-->
