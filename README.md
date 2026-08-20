@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3815-design-auction-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3815-design-auction-system) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1531-string-compression-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1531-string-compression-ii) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2390-removing-stars-from-a-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2484-count-palindromic-subsequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2484-count-palindromic-subsequences) |
 | [3844-longest-almost-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3844-longest-almost-palindromic-substring) |
@@ -869,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -880,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Bitmask
 |  |
 | ------- |
@@ -1022,4 +1027,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
