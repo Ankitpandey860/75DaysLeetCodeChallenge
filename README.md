@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Binary Search
 |  |
