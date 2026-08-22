@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1462-course-schedule-iv) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Bit Manipulation
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1462-course-schedule-iv) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Geometry
 |  |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0990-satisfiability-of-equality-equations) |
 | [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1462-course-schedule-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1514-path-with-maximum-probability) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1462-course-schedule-iv) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
