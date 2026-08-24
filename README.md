@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3975-filter-occupied-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3975-filter-occupied-intervals) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Hash Table
 |  |
 | ------- |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1686-stone-game-vi) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3858-minimum-bitwise-or-from-grid) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Recursion
 |  |
 | ------- |
