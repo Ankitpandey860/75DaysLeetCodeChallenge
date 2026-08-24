@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2392-build-a-matrix-with-conditions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2392-build-a-matrix-with-conditions) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Monotonic Stack
 |  |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2392-build-a-matrix-with-conditions) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Topological Sort
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2392-build-a-matrix-with-conditions) |
 ## Bitmask
 |  |
 | ------- |
@@ -1041,4 +1045,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2392-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
