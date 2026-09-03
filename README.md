@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2392-build-a-matrix-with-conditions) |
+| [2421-number-of-good-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2421-number-of-good-paths) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2421-number-of-good-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2421-number-of-good-paths) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3815-design-auction-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3815-design-auction-system) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [1686-stone-game-vi](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1686-stone-game-vi) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [2421-number-of-good-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2421-number-of-good-paths) |
 | [3842-toggle-light-bulbs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3842-toggle-light-bulbs) |
 | [3975-filter-occupied-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3975-filter-occupied-intervals) |
 ## Stack
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0669-trim-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2421-number-of-good-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2421-number-of-good-paths) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Binary Tree
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2421-number-of-good-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2421-number-of-good-paths) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Backtracking
 |  |
@@ -895,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2392-build-a-matrix-with-conditions) |
+| [2421-number-of-good-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2421-number-of-good-paths) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Topological Sort
