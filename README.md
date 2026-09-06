@@ -1119,4 +1119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
