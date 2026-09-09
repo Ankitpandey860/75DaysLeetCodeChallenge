@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0799-champagne-tower) |
 | [0808-soup-servings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
 | [0813-largest-sum-of-averages](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0813-largest-sum-of-averages) |
+| [0834-sum-of-distances-in-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0879-profitable-schemes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0879-profitable-schemes) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0669-trim-a-binary-search-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2421-number-of-good-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2421-number-of-good-paths) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+| [0834-sum-of-distances-in-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0934-shortest-bridge) |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+| [0834-sum-of-distances-in-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
@@ -1140,4 +1144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+## DP on Trees
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
