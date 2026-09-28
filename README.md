@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2709-greatest-common-divisor-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2709-greatest-common-divisor-traversal) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3815-design-auction-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3829-design-ride-sharing-system) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2709-greatest-common-divisor-traversal) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1603-design-parking-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3889-mirror-frequency-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3889-mirror-frequency-distance) |
 ## Sliding Window
