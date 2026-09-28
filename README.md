@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0355-design-twitter](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0449-serialize-and-deserialize-bst) |
+| [0933-number-of-recent-calls](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
 | [3815-design-auction-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3829-design-ride-sharing-system) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
 | [3829-design-ride-sharing-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3829-design-ride-sharing-system) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Monotonic Queue
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
 | [3829-design-ride-sharing-system](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3829-design-ride-sharing-system) |
 ## Ordered Set
 |  |
