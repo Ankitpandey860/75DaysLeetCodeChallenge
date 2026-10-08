@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
 | [0975-odd-even-jump](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0975-odd-even-jump) |
+| [1021-remove-outermost-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0990-satisfiability-of-equality-equations) |
+| [1021-remove-outermost-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -1195,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
