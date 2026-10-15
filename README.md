@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2709-greatest-common-divisor-traversal) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2421-number-of-good-paths) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
@@ -935,11 +937,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |
