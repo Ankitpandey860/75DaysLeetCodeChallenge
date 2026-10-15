@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0928-minimize-malware-spread-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0952-largest-component-size-by-common-factor) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 | [0924-minimize-malware-spread](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0773-sliding-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0815-bus-routes) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -1108,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bipartite Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [1349-maximum-students-taking-exam](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1349-maximum-students-taking-exam) |
 ## Edmonds–Karp Algorithm
 |  |
@@ -1204,4 +1209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
