@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4062-transform-array-using-pair-operations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/4062-transform-array-using-pair-operations) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3889-mirror-frequency-distance](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3889-mirror-frequency-distance) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Sorting
 |  |
 | ------- |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Two Pointers
 |  |
 | ------- |
