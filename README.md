@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3975-filter-occupied-intervals](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3975-filter-occupied-intervals) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4062-transform-array-using-pair-operations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -1217,4 +1218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
