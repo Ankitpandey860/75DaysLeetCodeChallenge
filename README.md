@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3664-two-letter-card-game](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3664-two-letter-card-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
