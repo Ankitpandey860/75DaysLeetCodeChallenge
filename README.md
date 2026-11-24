@@ -1259,4 +1259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1934-confirmation-rate) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
