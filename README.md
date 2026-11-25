@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0097-interleaving-string) |
