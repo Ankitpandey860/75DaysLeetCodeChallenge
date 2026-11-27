@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Ankitpandey860/75DaysLeetCodeChallenge/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 ## Eulerian Circuit
